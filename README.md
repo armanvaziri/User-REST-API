@@ -1,8 +1,8 @@
-# Maatka REST API
+# REST API for user data
 
-## Usage 
+## Instructions for use with Postman applications
 
-navigate to directory where data.py is located
-run "python app.py"
-open postman
-enter given http
+### navigate to directory where data.py is located
+### run "python app.py"
+### open postman
+### enter given http
