@@ -11,7 +11,7 @@ All responses will have the form
 		"age": "age of the user",
 		"occupation": "occupation of the user"
 	},
-	"message": "Description/code of what happened"
+	"message": "Description of what happened"
 }
 ```
 
@@ -46,12 +46,12 @@ Subsequent response definitions will only detail the expected value of the 'data
 
 **Definition**
 
-'POST /user/<name>'
+'POST /user/name'
 
 **ARGUMENTS**
 
 - `"name":string` a globally unique identifier for the user's name
-- `"age":string` the user's age
+- `"age":int` the user's age
 - `"occupation":string` the user's current occupation 
 
 **RESPONSE**
