@@ -29,7 +29,7 @@ Subsequent response definitions will only detail the expected value of the 'data
 
 ```json
 [
-{
+	{
         "name": "Arman",
         "age": 20,
         "occupation": "Student"
