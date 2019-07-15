@@ -68,7 +68,7 @@ Subsequent response definitions will only detail the expected value of the 'data
 
 ## Lookup user details 
 
-'GET /user/<name>'
+'GET /user/name'
 
 **Response**
 
@@ -83,13 +83,9 @@ Subsequent response definitions will only detail the expected value of the 'data
 }
 ```
 
-
-
-
-
 ## Instructions for use with Postman applications
 
-### navigate to directory where data.py is located
-### run "python app.py"
-### open postman
-### enter given http
+1. Navigate to the directory where data.py is located
+2. run "python app.py" in the terminal
+3. Open Postman application
+4. Enter the http provided in the terminal when you ran the file
