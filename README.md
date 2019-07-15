@@ -83,7 +83,7 @@ Subsequent response definitions will only detail the expected value of the 'data
 }
 ```
 
-## Instructions for use with Postman applications
+## Instructions for use with Postman application
 
 1. Navigate to the directory where data.py is located
 2. run "python app.py" in the terminal
